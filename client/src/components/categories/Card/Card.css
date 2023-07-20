@@ -1,0 +1,11 @@
+.cardContainer{
+     margin: 1rem ;
+    padding: 2rem; 
+    background-color: black;
+    color: white;
+    display: flex;
+    justify-content: space-evenly;
+    width: 22.5%;
+    flex-wrap: wrap;  
+    min-height: 15%;
+}

@@ -1,0 +1,907 @@
+[{
+    "PlanName": "915-New Jeevan Anand",
+    "AgeEntry": "18-50 yrs",
+    "MaxMaturityAge": "75 yrs",
+    "PolicyTerm": "15-35 yrs",
+    "SumAssured": "1,00,000-No limit",
+    "SumAssuredMultiples": 5000,
+    "ModeOfPayment": "All",
+    "GST": {
+      "FirstYear": "4.5%",
+      "SubsequentYear": "2.25%"
+    },
+    "Loan": "After 2 yrs",
+    "Surrender": "After 2 yrs",
+    "RiskCover": {
+      "SumAssuredOnDeath": "Higher of 125% of SA or 7 times of annualized premium",
+      "DeathBenefitMinimum": "105% of all the premiums paid"
+    },
+    "SumAssuredOnDeath": "125% of Basic Sum Assured or 7 times of Annualized Premium whichever is higher",
+    "DeathBenefitMinimum": "105% of total premiums paid",
+    "OnMaturity": "SA+Bonus+FAB+Life time Risk Cover of Sum Assured"
+  }
+  ,{
+    "PlanName": "914-New Endowment",
+    "AgeEntry": "8-55 yrs",
+    "MaxMaturityAge": "75 yrs",
+    "PolicyTerm": "12-35 yrs",
+    "SumAssured": "1,00,000-No limit",
+    "SumAssuredMultiples": 5000,
+    "ModeOfPayment": "All",
+    "GST": {
+      "FirstYear": "4.5%",
+      "SubsequentYear": "2.25%"
+    },
+    "Loan": "After 2 yrs",
+    "Surrender": "After 2 yrs",
+    "RiskCover": {
+      "SumAssuredOnDeath": "Higher of Basic SA or 7 times of annualized premium",
+      "DeathBenefitMinimum": "105% of all the premiums paid"
+    },
+    "OnMaturity": "SA+Bonus+FAB"
+  }
+  ,{
+    "PlanName": "916-New Bima Bachat",
+    "AgeEntry": "15-50 yrs",
+    "MaxMaturityAge": "75 yrs",
+    "PolicyTerm": "9/12/15 yrs",
+    "SumAssured": {
+      "9 yrs": "Min 35,000",
+      "12 yrs": "Min 50,000",
+      "15 yrs": "Min 70,000"
+    },
+    "ModeOfPayment": "Single",
+    "GST": "4.5%",
+    "Loan": "After 1 yr",
+    "Surrender": "At any time",
+    "RiskCover": "SA+Loyality Addition",
+    "Returns": "15% of SA after every 3 yrs",
+    "OnMaturity": "SinglePremium+Loyality Addition"
+  }
+  ,{
+    "PlanName": "917-Single Endowment",
+    "AgeEntry": "0(90 days)-65 yrs",
+    "MaxMaturityAge": "18-75 yrs",
+    "PolicyTerm": "10-25 yrs",
+    "SumAssured": "50,000-No limit",
+    "SumAssuredMultiples": 5000,
+    "ModeOfPayment": "Single",
+    "GST": "4.5%",
+    "Loan": "After 1 yr",
+    "Surrender": "At any time",
+    "OnDeath": "SA+Bonus+FAB",
+    "OnMaturity": "SA+Bonus+FAB"
+  }  
+  ,{
+    "PlanName": "920-New MoneyBack(20yrs)",
+    "AgeEntry": "13-50 yrs",
+    "MaxMaturityAge": "70 yrs",
+    "PolicyTerm": "20 yrs",
+    "PPT": "15 yrs",
+    "SumAssured": "1,00,000-No limit",
+    "SumAssuredMultiples": 5000,
+    "ModeOfPayment": "All",
+    "GST": {
+      "FirstYear": "4.5%",
+      "SubsequentYear": "2.25%"
+    },
+    "Loan": "After 2 yrs",
+    "Surrender": "After 2 yrs",
+    "OnDeath": "SA+Bonus+FAB",
+    "SumAssuredOnDeath": "Higher of 125% of Basic Sum Assured or 7 times of Annualized Premium",
+    "DeathBenefitMinimum": "105% of all the premiums paid",
+    "Returns": {
+      "5th yr": "20% of SA",
+      "10th yr": "20% of SA",
+      "15th yr": "20% of SA",
+      "20th yr": "40% of SA+Bonus+FAB"
+    }
+  }
+  ,{
+    "PlanName": "921-New MoneyBack(25yrs)",
+    "AgeEntry": "13-45 yrs",
+    "MaxMaturityAge": "70 yrs",
+    "PolicyTerm": "25 yrs",
+    "PPT": "20 yrs",
+    "SumAssured": "1,00,000-No limit",
+    "SumAssuredMultiples": 5000,
+    "ModeOfPayment": "All",
+    "GST": {
+      "FirstYear": "4.5%",
+      "SubsequentYear": "2.25%"
+    },
+    "Loan": "After 2 yrs",
+    "Surrender": "After 2 yrs",
+    "OnDeath": "SA+Bonus+FAB",
+    "SumAssuredOnDeath": "Higher of 125% of Basic Sum Assured or 7 times of Annualized Premium",
+    "DeathBenefitMinimum": "105% of all the premiums paid",
+    "Returns": {
+      "5th yr": "15% of SA",
+      "10th yr": "15% of SA",
+      "15th yr": "15% of SA",
+      "20th yr": "15% of SA",
+      "25th yr": "40% of SA+Bonus+FAB"
+    }
+  },{
+    "PlanName": "822-Anmol Jeevan-II",
+    "AgeEntry": "0(90days)-50 yrs",
+    "MaxMaturityAge": "70 yrs",
+    "PolicyTerm": "15-20 yrs",
+    "SumAssured": "2,00,000-5,00,000",
+    "SumAssuredMultiples": 25000,
+    "ModeOfPayment": "All",
+    "GST": {
+      "1st year": "4.5%",
+      "Subsequent year": "2.25%"
+    },
+    "Loan": "After 2 yrs",
+    "Surrender": "After 2 yrs",
+    "RiskCover": "SA+Bonus+FAB",
+    "OnDeath": {
+      "SumAssured": "Higher of Basic SA or 7 times of annualized premium",
+      "DeathBenefit": "Not less than 105% of all the premiums paid"
+    },
+    "OnMaturity": "SA"
+  }
+  ,{
+    "PlanName": "932-Childrens Money Back",
+    "AgeEntry": "0-12 yrs",
+    "PolicyTerm": "25-age yrs",
+    "PPT": "25-age yrs",
+    "SumAssured": "1,00,000-No limit",
+    "SumAssuredMultiples": 10000,
+    "ModeOfPayment": "All",
+    "GST": {
+      "FirstYear": "4.5%",
+      "SubsequentYear": "2.25%"
+    },
+    "Loan": "After 2 yrs",
+    "Surrender": "After 2 yrs",
+    "RiskCover": {
+      "BeforeRiskCommencement": "Total premium paid (excluding taxes, extra premium, and rider premium)",
+      "AfterRiskCommencement": "SA+Bonus+FAB",
+      "SumAssuredOnDeath": "Higher of Basic SA or 7 times of annualized premium",
+      "DeathBenefitMinimum": "105% of all the premiums paid"
+    },
+    "MoneyBack": {
+      "Age18": "20% of SA",
+      "Age20": "20% of SA",
+      "Age22": "20% of SA"
+    },
+    "OnMaturity": "40% of SA+Bonus+FAB",
+    "Rider": "PWB Rider is available, proposer age should be 18-55"
+  }
+,{
+    "PlanName": "933-Jeevan Lakshya",
+    "AgeEntry": "18-50 yrs",
+    "MaxMaturityAge": "65 yrs",
+    "PolicyTerm": "13-25 yrs",
+    "SumAssured": "1,00,000-No limit",
+    "SumAssuredMultiples": 10000,
+    "ModeOfPayment": "All",
+    "GST": {
+      "FirstYear": "4.5%",
+      "SubsequentYear": "2.25%"
+    },
+    "Loan": "After 3 yrs",
+    "Surrender": "After 3 yrs",
+    "RiskCover": {
+      "NaturalRiskCover": "10% of SA every year till policy year anniversary prior to maturity",
+      "AccidentalRiskCover": "Accidental Sum Assured given immediately and 10% of SA every year till policy year anniversary prior to maturity",
+      "MaturityBenefit": "110% of SA+Bonus+FAB (Both Natural And Accidental)"
+    },
+    "OnMaturity": "SA+Bonus+FAB"
+  }
+,{
+    "PlanName": "934-Jeevan Tarun",
+    "AgeEntry": "0(90 days)-12 yrs",
+    "PolicyTerm": "25-age yrs",
+    "PPT": "term-5 yrs",
+    "SumAssured": "75,000-No limit",
+    "SumAssuredMultiples": {
+      "<=1 lakh": 5000,
+      ">1 lakh": 10000
+    },
+    "ModeOfPayment": "All",
+    "GST": {
+      "FirstYear": "4.5%",
+      "SubsequentYear": "2.25%"
+    },
+    "Loan": "After 2 yrs",
+    "Surrender": "After 2 yrs",
+    "RiskCover": {
+      "BeforeRiskCommencement": "Total premiums paid (excluding taxes, extra premium, and rider premium)",
+      "AfterRiskCommencement": "SA+Bonus+FAB",
+      "SumAssuredOnDeath": "Higher of 125% of Basic SA or 7 times of annualized premium",
+      "DeathBenefitMinimum": "105% of all the premiums paid"
+    },
+    "Returns": {
+      "Option1": "No MoneyBack, On Maturity SA+Bonus+FAB",
+      "Option2": "5% of SA every year from child age 20 to 24, on maturity 75% of SA+Bonus+FAB",
+      "Option3": "10% of SA every year from child age 20 to 24, on maturity 50% of SA+Bonus+FAB",
+      "Option4": "15% of SA every year from child age 20 to 24, on maturity 25% of SA+Bonus+FAB"
+    }
+  },{
+    "PlanName": "936-Jeevan Labh",
+    "AgeEntry": "8-59 yrs",
+    "MaxMaturityAge": "75 yrs",
+    "PolicyTermPPT": {
+      "16-10": "16 yrs policy term with 10 yrs premium payment term",
+      "21-15": "21 yrs policy term with 15 yrs premium payment term",
+      "25-16": "25 yrs policy term with 16 yrs premium payment term"
+    },
+    "SumAssured": "2,00,000-No limit",
+    "SumAssuredMultiples": 10000,
+    "ModeOfPayment": "All",
+    "GST": {
+      "FirstYear": "4.5%",
+      "SubsequentYear": "2.25%"
+    },
+    "Loan": "After 3 yrs",
+    "Surrender": "After 3 yrs",
+    "OnDeath": "SA+Bonus+FAB",
+    "SumAssuredOnDeath": "Basic Sum Assured or 7 times of Annualized Premium (whichever is higher)",
+    "DeathBenefitMinimum": "Death benefit shall not be less than 105% of total premiums paid",
+    "OnMaturity": "SA+Bonus+FAB"
+  }
+,{
+    "PlanName": "856-Pradhan Mantri Vaya Vandana Yojana",
+    "AgeEntry": 60,
+    "PolicyTerm": "10 yrs",
+    "SumAssured": {
+      "YLY": "1,56,658-14,49,086",
+      "HLY": "1,59,574-14,76,064",
+      "QLY": "1,61,074-14,89,933",
+      "MLY": "1,62,162-15,00,000"
+    },
+    "Pension": {
+      "MLY": "Rs.1,000-9,250",
+      "QLY": "Rs.3,000-27,750",
+      "HLY": "Rs.6,000-55,500",
+      "YLY": "Rs.12,000-1,11,000"
+    },
+    "Loan": "After 3 yrs (Upto 75%)",
+    "Surrender": "98% (only on critical/terminal illness of self or spouse)",
+    "OnDeath": "Full purchase price will be refunded",
+    "OnMaturity": "Full purchase price will be refunded"
+  }
+,{
+    "PlanName": "943-Aadhar stambh",
+    "Gender": "Male",
+    "AgeEntry": "8-55 yrs",
+    "MaxMaturityAge": 70,
+    "PolicyTerm": "10-20 yrs",
+    "SumAssured": "75,000-3,00,000",
+    "SumAssuredMultiples": {
+      "SA<=1,50,000": 5000,
+      "SA>1,50,000": 10000
+    },
+    "ModeOfPayment": "All",
+    "GST": {
+      "1stYear": 4.5,
+      "SubsequentYear": 2.25
+    },
+    "Loan": "After 2 yrs",
+    "Surrender": "After 2 yrs",
+    "OnDeath": "SA+LA",
+    "SumAssuredOnDeath": "Higher of Basic SA or 7 times of annualized premium",
+    "DeathBenefit": "Not less than 105% of all the premiums paid",
+    "OnMaturity": "SA+LA"
+  }
+,{
+    "PlanName": "944-Aadhar shila",
+    "Gender": "Female",
+    "AgeEntry": "8-55 yrs",
+    "MaxMaturityAge": 70,
+    "PolicyTerm": "10-20 yrs",
+    "SumAssured": "75,000-3,00,000",
+    "SumAssuredMultiples": {
+      "SA<=1,50,000": 5000,
+      "SA>1,50,000": 10000
+    },
+    "ModeOfPayment": "All",
+    "GST": {
+      "1stYear": 4.5,
+      "SubsequentYear": 2.25
+    },
+    "Loan": "After 2 yrs",
+    "Surrender": "After 2 yrs",
+    "OnDeath": "SA+LA",
+    "SumAssuredOnDeath": "Higher of Basic SA or 7 times of annualized premium",
+    "DeathBenefit": "Not less than 105% of all the premiums paid",
+    "OnMaturity": "SA+LA"
+  }
+,{
+    "PlanName": "945-Jeevan Umang",
+    "AgeEntry": "0(90 days)-55 yrs",
+    "PolicyTerm": "100-age entry",
+    "PPT": "15/20/25/30",
+    "SumAssured": "2,00,000-No limit",
+    "SumAssuredMultiples": 25000,
+    "ModeOfPayment": "All",
+    "GST": {
+      "1stYear": 4.5,
+      "SubsequentYear": 2.25
+    },
+    "Loan": "After 2 yrs",
+    "Surrender": "After 2 yrs",
+    "RiskCover": "SA+Bonus+FAB",
+    "SumAssuredOnDeath": "Higher of Basic SA or 7 times of annualized premium",
+    "DeathBenefit": "Not less than 105% of all the premiums paid",
+    "Returns": "8% of Sum Assured every year after PPT until Age 100",
+    "OnMaturity": "SA+Bonus+FAB"
+  }
+,{
+    "PlanName": "947-Jeevan Shiromani",
+    "AgeEntry": "18-55 yrs",
+    "MaxMaturityAge": 69,
+    "TermPPT": [
+      {
+        "Term": 14,
+        "PPT": 10
+      },
+      {
+        "Term": 16,
+        "PPT": 12
+      },
+      {
+        "Term": 18,
+        "PPT": 14
+      },
+      {
+        "Term": 20,
+        "PPT": 16
+      }
+    ],
+    "SumAssured": "1,00,00,000-No limit",
+    "SumAssuredMultiples": 500000,
+    "ModeOfPayment": "All",
+    "GST": {
+      "1stYear": 4.5,
+      "SubsequentYear": 2.25
+    },
+    "Loan": "After 1 yr",
+    "Surrender": "After 1 yr",
+    "RiskCover": {
+      "Before5Years": "SA+Guaranteed Addition (Rs.50)",
+      "After5Years": "SA+Guaranteed Addition (Rs.55)+Loyalty Addition",
+      "SumAssuredOnDeath": "Higher of 125% of Basic SA or 7 times of annualized premium",
+      "DeathBenefit": "Not less than 105% of all the premiums paid"
+    },
+    "Returns": [
+      {
+        "Term": 14,
+        "Returns": [
+          {
+            "Year": 10,
+            "Percentage": 30
+          },
+          {
+            "Year": 12,
+            "Percentage": 30
+          },
+          {
+            "Year": "Maturity",
+            "Percentage": 40
+          }
+        ]
+      },
+      {
+        "Term": 16,
+        "Returns": [
+          {
+            "Year": 12,
+            "Percentage": 35
+          },
+          {
+            "Year": 14,
+            "Percentage": 35
+          },
+          {
+            "Year": "Maturity",
+            "Percentage": 30
+          }
+        ]
+      },
+      {
+        "Term": 18,
+        "Returns": [
+          {
+            "Year": 14,
+            "Percentage": 40
+          },
+          {
+            "Year": 16,
+            "Percentage": 40
+          },
+          {
+            "Year": "Maturity",
+            "Percentage": 20
+          }
+        ]
+      },
+      {
+        "Term": 20,
+        "Returns": [
+          {
+            "Year": 16,
+            "Percentage": 45
+          },
+          {
+            "Year": 18,
+            "Percentage": 45
+          },
+          {
+            "Year": "Maturity",
+            "Percentage": 10
+          }
+        ]
+      }
+    ]
+  }
+,{
+    "PlanName": "948-Bima Shree",
+    "AgeEntry": "8-55 yrs",
+    "MaxMaturityAge": 69,
+    "TermPPT": [
+      {
+        "Term": 14,
+        "PPT": 10
+      },
+      {
+        "Term": 16,
+        "PPT": 12
+      },
+      {
+        "Term": 18,
+        "PPT": 14
+      },
+      {
+        "Term": 20,
+        "PPT": 16
+      }
+    ],
+    "SumAssured": "10,00,000-No limit",
+    "SumAssuredMultiples": 100000,
+    "ModeOfPayment": "All",
+    "GST": {
+      "1stYear": 4.5,
+      "SubsequentYear": 2.25
+    },
+    "Loan": "After 2 yrs",
+    "Surrender": "After 2 yrs",
+    "RiskCover": {
+      "Before5Years": "SA+Guaranteed Addition (Rs.50)",
+      "After5Years": "SA+Guaranteed Addition (Rs.55)+Loyalty Addition",
+      "SumAssuredOnDeath": "Higher of 125% of Basic SA or 7 times of annualized premium",
+      "DeathBenefit": "Not less than 105% of all the premiums paid"
+    },
+    "Returns": [
+      {
+        "Term": 14,
+        "Returns": [
+          {
+            "Year": 10,
+            "Percentage": 30
+          },
+          {
+            "Year": 12,
+            "Percentage": 30
+          },
+          {
+            "Year": "Maturity",
+            "Percentage": 40
+          }
+        ]
+      },
+      {
+        "Term": 16,
+        "Returns": [
+          {
+            "Year": 12,
+            "Percentage": 35
+          },
+          {
+            "Year": 14,
+            "Percentage": 35
+          },
+          {
+            "Year": "Maturity",
+            "Percentage": 30
+          }
+        ]
+      },
+      {
+        "Term": 18,
+        "Returns": [
+          {
+            "Year": 14,
+            "Percentage": 40
+          },
+          {
+            "Year": 16,
+            "Percentage": 40
+          },
+          {
+            "Year": "Maturity",
+            "Percentage": 20
+          }
+        ]
+      },
+      {
+        "Term": 20,
+        "Returns": [
+          {
+            "Year": 16,
+            "Percentage": 45
+          },
+          {
+            "Year": 18,
+            "Percentage": 45
+          },
+          {
+            "Year": "Maturity",
+            "Percentage": 10
+          }
+        ]
+      }
+    ]
+  }
+,{
+    "PlanName": "858-New Jeevan Shanti",
+    "AgeEntry": "30-79 (Deferred Annuity)",
+    "SumAssured": "1,50,000-No limit",
+    "ModeOfPayment": "Single",
+    "GST": 1.8,
+    "ModeOfPension": "All",
+    "DeferredAnnuityOptions": [
+      {
+        "Option": "Deferred Annuity for Single Life"
+      },
+      {
+        "Option": "Deferred Annuity for Joint Life"
+      }
+    ],
+    "SurrenderAndLoan": {
+      "ApplicableAfter": "3 months",
+      "Options": [
+        {
+          "Option": "Deferred Annuity - Single Life"
+        },
+        {
+          "Option": "Deferred Annuity - Joint Life"
+        }
+      ]
+    }
+  }
+,{
+    "PlanName": "951-Micro Bachat",
+    "AgeEntry": "18-55 yrs",
+    "MaxMaturityAge": "70 yrs",
+    "PolicyTerm": "10-15 yrs",
+    "SumAssured": "50,000-2,00,000",
+    "SumAssuredMultiples": 5000,
+    "ModeOfPayment": "All",
+    "GST": "NA",
+    "Loan": "After 3 yrs",
+    "Surrender": "After 1 yr",
+    "OnDeath": "SA+LA",
+    "OnMaturity": "SA+LA"
+  }
+,{
+    "PlanName": "955-New Jeevan Amar",
+    "AgeEntry": "18-65",
+    "MaxMaturityAge": "80 yrs",
+    "PolicyTerm": "10-40 yrs",
+    "PPT": "5/10 yrs (Ltd Prem))",
+    "SumAssured": "25,00,000-No limit",
+    "ModeOfPayment": "Single/yly/hly",
+    "GST": "18%",
+    "Surrender": "Available for limited/single premium",
+    "Loan": "NA",
+    "OnDeath": {
+      "DeathBenefit": "Sum Assured on Death",
+      "RegularPremium": "Highest of 7 times of annualised premium, or 105% of all premiums paid as on the date of death, or absolute amount assured to be paid on death",
+      "LimitedPremium": "Highest of 7 times of annualised premium, or 105% of all premiums paid as on the date of death, or absolute amount assured to be paid on death",
+      "SinglePremium": "Highest of 125% of Single Premium, or absolute amount assured to be paid on death",
+      "LevelSumAssured": "Absolute amount assured to be paid on death shall be an amount equal to Basic Sum Assured throughout the policy term",
+      "IncreasingSumAssured": "Absolute amount assured to be paid on death shall remain equal to Basic Sum Assured till completion of fifth policy year. Thereafter, it increases by 10% of Basic Sum Assured each year from the sixth policy year till the fifteenth policy year until it becomes twice the Basic Sum Assured. From the sixteenth policy year onwards, the absolute amount assured to be paid on death remains constant at twice the Basic Sum Assured till the policy term ends"
+    },
+    "OnMaturity": "NA"
+  }
+,{
+    "PlanName": "857-Jeevan Akshay VII",
+    "AgeEntry": "25-85(100 for option f)",
+    "SumAssured": [
+      {
+        "AgeRange": "25-29",
+        "SumAssured": "10,00,0000-No limit"
+      },
+      {
+        "AgeRange": "30-85",
+        "SumAssured": "1,00,000-No limit"
+      }
+    ],
+    "ModeOfPayment": "Single",
+    "GST": "1.8%",
+    "ModeOfPension": "All",
+    "MinimumPension": {
+      "YLY": "12,000",
+      "HLY": "6,000",
+      "QLY": "3,000",
+      "MLY": "1,000"
+    },
+    "Surrender": "Surrender is allowed after 3 months for option F & J",
+    "Loan": "Loan is allowed after 3 months for option F & J",
+    "AnnuityOptions": [
+      "Annuity for life",
+      "Annuity guaranteed for 5 yrs and for life thereafter",
+      "Annuity guaranteed for 10 yrs and for life thereafter",
+      "Annuity guaranteed for 15 yrs and for life thereafter",
+      "Annuity guaranteed for 20 yrs and for life thereafter",
+      "Annuity for life with return of purchase price on death",
+      "Annuity for life increasing at a simple rate of 3% P.A.",
+      "Annuity for life with a provision for 50% of annuity payable to spouse on death of annuitant",
+      "Annuity for life with a provision for 100% of annuity payable to spouse on death of annuitant",
+      "Annuity for life with a provision for 100% of annuity payable to spouse on death of annuitant with return of purchase price on death of last survivor"
+    ]
+  }
+,               {
+    "PlanName": "905-Cancer Cover",
+    "AgeEntry": "20-65 yrs",
+    "CoverCeasing": "50-75 yrs",
+    "PolicyTerm": "10-30 yrs",
+    "SumAssured": [
+      {
+        "AgeRange": "20-34",
+        "SumAssured": "35,00,000-50,00,000"
+      },
+      {
+        "AgeRange": "35-40",
+        "SumAssured": "25,00,000-50,00,000"
+      },
+      {
+        "AgeRange": "41-65",
+        "SumAssured": "15,00,000-50,00,000"
+      }
+    ],
+    "SumAssuredMultiples": "1,00,000",
+    "ModeOfPayment": "YLY,HLY",
+    "GST": "18.0%",
+    "Loan": "Not Available",
+    "Surrender": "Not Available",
+    "PolicyBenefits": {
+      "Option1": "LEVEL SUM INSURED: The Basic Sum Assured is same throughout the term",
+      "Option2": "INCREASING SUM INSURED: 10% increase in Sum Assured for first 5 yrs or till the diagnosis of specified cancer",
+      "MinimumPremium": "Rs.2400 p.a. for all modes.",
+      "EarlyStageCancer": {
+        "LumpsumBenefit": "25% of applicable Sum Assured payable",
+        "PremiumWeiverBenefit": "Premiums for next 3 yrs or balance policy term whichever is earlier"
+      },
+      "MajorStageCancer": {
+        "LumpsumBenefit": "100% of applicable Sum Insured minus any claim paid for Early Stage.",
+        "MonthlyBenefit": "1% of applicable Sum Assured payable for next 10 yrs on each policy month",
+        "PremiumWaiver": "Waiver of future premiums"
+      }
+    }
+  }
+,{
+    "PlanName": "860-Bima Jyoti",
+    "AgeEntry": "0(90 days)-60 yrs",
+    "MaxMaturityAge": "75 yrs",
+    "PolicyTerm": "15-20 yrs",
+    "PPT": "Term-5 yrs",
+    "SumAssured": "1,00,000-No limit",
+    "SumAssuredMultiples": "25,000",
+    "ModeOfPayment": "All",
+    "GST": {
+      "FirstYear": "4.5%",
+      "SubsequentYear": "2.25%"
+    },
+    "Loan": "After 2 yrs",
+    "Surrender": "After 2 yrs",
+    "RiskCover": {
+      "Type": "SA+GuaranteedAddition",
+      "SumAssuredOnDeath": "Higher of 125% of Basic SA or 7 times of annualized premium",
+      "DeathBenefit": "Not less than 105% of all the premiums paid"
+    },
+    "OnMaturity": "SA+GuaranteedAddition"
+  }
+,{
+    "PlanName": "849-Nivesh Plus",
+    "AgeEntry": "0(90 days)-70 yrs",
+    "MaxMaturityAge": "85 yrs",
+    "PolicyTerm": "10-25 yrs",
+    "Premium": "Min 1,00,000",
+    "ModeOfPayment": "Single",
+    "Surrender": "After 5 years",
+    "RiskCover": {
+      "Type": "Higher of Basic SumAssured or Unit Fund Value"
+    },
+    "Maturity": "Unit Fund Value will be paid"
+  }
+,{
+    "PlanName": "867-Pension Plus",
+    "AgeEntry": "25-75 yrs",
+    "MaxMaturityAge": "85 yrs",
+    "PolicyTerm": "10-42 yrs",
+    "Premium": {
+      "SinglePremium": "Min 1,00,000",
+      "YearlyMode": "Min 30,000",
+      "HalfYearlyMode": "Min 16,000",
+      "QuarterlyMode": "Min 9,000",
+      "MonthlyMode": "Min 3,000"
+    },
+    "ModeOfPayment": "ALL",
+    "Surrender": "After 5 years",
+    "RiskCover": {
+      "Type": "Higher of 105% of total premiums paid or Unit Fund Value"
+    },
+    "Maturity": "Unit Fund Value will be paid"
+  }
+,{
+    "PlanName": "935-Endowment Plus",
+    "AgeEntry": "0(90 days)-50 yrs",
+    "MaxMaturityAge": "60 yrs",
+    "PolicyTerm": "10-20 yrs",
+    "Premium": {
+      "YearlyMode": "Min 20,000",
+      "HalfYearlyMode": "Min 13,000",
+      "QuarterlyMode": "Min 8,000",
+      "MonthlyMode": "Min 3,000"
+    },
+    "ModeOfPayment": "ALL",
+    "Surrender": "After 5 years",
+    "RiskCover": {
+      "Type": "Higher of Basic SumAssured or Unit Fund Value"
+    },
+    "Maturity": "Unit Fund Value will be paid"
+  }
+,{
+    "PlanName": "861-Bachat Plus",
+    "AgeEntry": {
+      "SinglePremiumOptionA": "0(90 days)-44",
+      "SinglePremiumOptionB": "0(90 days)-70",
+      "LtdPremiumOption1": "0(90 days)-60",
+      "LtdPremiumOption2": "40-65"
+    },
+    "PolicyTerm": "10-25",
+    "SumAssured": "1,00,000-No limit",
+    "SumAssuredMultiples": {
+      "Upto9Lakhs": "25000",
+      "Above9Lakhs": "50,000"
+    },
+    "ModeOfPayment": "Single & Limited",
+    "GST": {
+      "FirstYear": "4.5%",
+      "SubsequentYear": "2.25%"
+    },
+    "Loan": {
+      "SinglePremium": "After 3 months",
+      "LtdPremium": "After 2 yrs"
+    },
+    "Surrender": {
+      "SinglePremium": "At any time",
+      "LtdPremium": "After 2 yrs"
+    },
+    "OnMaturity": "SA + Loyality Additon",
+    "OnDeath": {
+      "SinglePremiumOptionA": "10 times of Tabular Premium",
+      "SinglePremiumOptionB": "1.25 times of Tabular Premium",
+      "LtdPremiumOption1": "Higher of 10 times of Tabular Premium or SA",
+      "LtdPremiumOption2": "Higher of 7 times of Tabular Premium or SA"
+    }
+  }
+,{
+    "PlanName": "859-Saral Jeevan Bima",
+    "AgeEntry": "18-65",
+    "MaxMaturityAge": "70 yrs",
+    "PolicyTerm": {
+      "Regular": "10-40 yrs",
+      "Single": "10-40 yrs",
+      "Ltd-5": "6-40 yrs",
+      "Ltd-10": "11-40 yrs"
+    },
+    "PPT": {
+      "Regular": "PPT=Term",
+      "Limited": "5/10 yrs"
+    },
+    "SumAssured": "5,00,000-25,00,000",
+    "ModeOfPayment": "Single/yly/hly/mly",
+    "GST": "18%",
+    "Surrender": "NA",
+    "Loan": "NA",
+    "OnDeath": "SumAssured will be paid",
+    "OnMaturity": "No Maturity Benefit"
+  }
+,                {
+    "PlanName": "865-Dhan Sanchay",
+    "AgeEntry": {
+      "SinglePremium": "0(90 days)-60",
+      "RegularPremium": {
+        "Option-A/B": "3-50",
+        "Option-C": "3-65",
+        "Option-D": "3-40"
+      }
+    },
+    "PolicyTerm-PPT": {
+      "Option-A/B": {
+        "10-5": true,
+        "10-10": true,
+        "15-5": true,
+        "15-10": true,
+        "15-15": true
+      },
+      "Option-C/D": {
+        "5-5": true,
+        "10-10": true,
+        "15-15": true
+      }
+    },
+    "Premium": {
+      "RegularPremium": "30,000-No limit",
+      "SinglePremium": "2,00,000-No limit"
+    },
+    "PremiumMultiples": 1000,
+    "ModeOfPayment": "Single/YLY/HLY/QLY/MLY",
+    "GST": {
+      "1stYear": "4.5%",
+      "SubsequentYear": "2.25%"
+    },
+    "Loan": {
+      "SinglePremium": "After 3 months",
+      "RegularPremium": "After 2 yrs"
+    },
+    "Surrender": {
+      "SinglePremium": "At any time",
+      "RegularPremium": "After 2 yrs"
+    },
+    "GuaranteedIncome": "Payable as installments from maturity to the number of years premium paid",
+    "GuaranteedTerminalBenefit": "Payable along with the last GIB",
+    "RiskCover": "During the term, Death Sum Assured will be payable. During the payout period, the Guaranteed Income Benefit and Guaranteed Terminal Benefit will continue to be paid."
+  }
+       ,{
+        "PlanName": "866-Dhan Varsha",
+        "AgeEntry": {
+          "Option-1": "3-60 yrs",
+          "Option-2": "3-40 yrs"
+        },
+        "MaxMaturityAge": {
+          "Option-1": "75 yrs",
+          "Option-2": "50 yrs"
+        },
+        "PolicyTerm": "10/15 yrs",
+        "SumAssured": "1,25,000-No limit",
+        "SumAssuredMultiples": 5000,
+        "ModeOfPayment": "Single",
+        "GST": "4.5%",
+        "Loan": "After 3 months",
+        "Surrender": "At any time",
+        "OnDeath": {
+          "Option-1": "1.25 times of Tabular Premium + GuaranteedAddition",
+          "Option-2": "10 times of Tabular Premium + GuaranteedAddition"
+        },
+        "OnMaturity": "SA+GuaranteedAddition"
+      }
+,{
+    "PlanName": "868-Jeevan Azad",
+    "AgeEntry": "0(90days)-50 yrs",
+    "MaxMaturityAge": "70 yrs",
+    "PolicyTerm": "15-20 yrs",
+    "SumAssured": "2,00,000-5,00,000",
+    "SumAssuredMultiples": 25000,
+    "ModeOfPayment": "All",
+    "GST": {
+      "1st year": "4.5%",
+      "Subsequent year": "2.25%"
+    },
+    "Loan": "After 2 yrs",
+    "Surrender": "After 2 yrs",
+    "RiskCover": "SA+Bonus+FAB",
+    "OnDeath": {
+      "SumAssured": "Higher of Basic SA or 7 times of annualized premium",
+      "DeathBenefit": "Not less than 105% of all the premiums paid"
+    },
+    "OnMaturity": "SA"
+  }
+  ]

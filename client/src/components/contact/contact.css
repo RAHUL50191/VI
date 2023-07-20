@@ -1,0 +1,20 @@
+.contact{
+    background-color: #2C3E50;
+    display: flex;
+    color: white;
+    place-content: center;
+}
+.form{
+    background-color: #2C3E50;
+    display:block;
+    /* margin: 2rem; */
+    padding: 2rem;
+    justify-content: center;
+    align-items: center;
+   
+    
+}
+.formitem{
+    margin: 2rem;
+    width: 25%;
+}

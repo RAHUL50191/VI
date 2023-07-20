@@ -1,0 +1,16 @@
+.categories{
+    border-radius: 2rem;
+    padding: 2rem;
+    background-color:#BDC3C7;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+.btnx{
+    border-radius: 0rem  2rem 0 0;
+    border-width: 1px 1px 0px 1px ;
+    border: linear-gradient(#0f0f0f, #9696ab);
+    padding: 1rem;
+    margin: 0 1rem  0 0 ;
+    background: linear-gradient(#ffffff, #9696ab);
+}

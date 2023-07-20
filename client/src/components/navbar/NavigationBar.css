@@ -1,0 +1,26 @@
+.Navbar{
+    padding: 0.5rem 2rem 0.5rem 2rem ;
+    
+    background: transparent;
+    z-index: 1;
+    position: fixed;
+    top: 0%;width:-webkit-fill-available;
+    display: block;
+    font-size: large;
+    color: aliceblue;position: -webkit-sticky;
+    /* display: flex;justify-content: center;align-items: center; */
+}
+.Navbar.scrolled{
+background-color: #a9a9a9;
+}
+ .navbar{}
+ .navbar-nav{display: flex;width: max-content;}
+.nav-item{
+    margin: .5rem;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+a:link { text-decoration: none;     color: rgb(250, 250, 250);}
+a:visited { text-decoration: none; color: rgb(255, 255, 255); }
+a:active { text-decoration: none;  color: rgb(0, 0, 0);}
+a:hover{ text-decoration: none;     color: rgb(214, 57, 57);}
